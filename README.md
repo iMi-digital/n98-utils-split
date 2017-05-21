@@ -1,12 +1,12 @@
 N98-Utils-Split
 ===============
 
-Split of N98/Utils from the Magerun1 repository
+Split of N98/Utils from the Magerun2 repository
 
 How It Is done
 ==============
 
-	cd ../n98-magerun
+	cd ../n98-magerun2
 	git subtree split -P src/N98/Util/ -b split-src-n98-util
 	git subtree split -P tests/N98/Util -b split-tests-n98-util
 	git subtree split -P shared/src/N98/Util -b split-shared-src-n98-util
@@ -14,7 +14,7 @@ How It Is done
 	cd ../n98-utils-split
 
 	# on the first run
-	# git remote add magerun ../n98-magerun
+	# git remote add magerun ../n98-magerun2
 	git fetch magerun
 
 	# on the first run
