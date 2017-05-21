@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/iMi-digital/n98-utils-split.svg?branch=master)](https://travis-ci.org/iMi-digital/n98-utils-split)
+
 N98-Utils-Split
 ===============
 
